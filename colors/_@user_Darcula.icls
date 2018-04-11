@@ -3,29 +3,25 @@
     <property name="created">2018-04-11T13:26:51</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.0.16</property>
-    <property name="modified">2018-04-11T13:38:09</property>
+    <property name="modified">2018-04-11T13:41:05</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="fd000" />
-    <option name="FILESTATUS_DELETED" value="616161" />
+    <option name="FILESTATUS_ADDED" value="80cbc4" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="b28c00" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="b752dd" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="a0a047" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff0000" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff0000" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff0000" />
-    <option name="FILESTATUS_MERGED" value="7503dc" />
-    <option name="FILESTATUS_MODIFIED" value="578ddf" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3987df" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="8aa4c8" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546e7a" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
+    <option name="FILESTATUS_MERGED" value="65738e" />
+    <option name="FILESTATUS_MODIFIED" value="eacec3" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="f36e3a" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="f36e3a" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
     <option name="FILESTATUS_SUPPRESSED" value="" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
-    <option name="FILESTATUS_UNKNOWN" value="c13d00" />
-    <option name="FILESTATUS_addedOutside" value="eaa00" />
-    <option name="FILESTATUS_changelistConflict" value="ff0000" />
-    <option name="FILESTATUS_modifiedOutside" value="5577e4" />
+    <option name="FILESTATUS_UNKNOWN" value="cdd3de" />
+    <option name="FILESTATUS_modifiedOutside" value="f77669" />
   </colors>
   <attributes>
     <option name="LOGCAT_ASSERT_OUTPUT">
