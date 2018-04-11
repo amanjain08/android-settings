@@ -23,7 +23,7 @@
     <option name="LINE_NUMBERS_COLOR" value="8f908a" />
     <option name="METHOD_SEPARATORS_COLOR" value="3f3f3f" />
     <option name="MODIFIED_LINES_COLOR" value="304050" />
-    <option name="NOTIFICATION_BACKGROUND" value="373830" />
+    <option name="NOTIFICATION_BACKGROUND" value="ff4444" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="484b58" />
     <option name="RIGHT_MARGIN_COLOR" value="373737" />
     <option name="SELECTED_INDENT_GUIDE" value="494949" />
@@ -739,6 +739,16 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="7a7a7a" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="5b5b5b" />
+      </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
