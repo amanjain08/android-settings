@@ -1044,7 +1044,7 @@
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="99cc00" />
+        <option name="FOREGROUND" value="26cc19" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
