@@ -15,4 +15,7 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="Vcs.ShowDiffWithLocal">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
 </keymap>
