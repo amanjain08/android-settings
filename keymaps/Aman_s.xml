@@ -1,4 +1,5 @@
 <keymap version="1" name="Aman's" parent="Mac OS X 10.5+">
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 4" />
