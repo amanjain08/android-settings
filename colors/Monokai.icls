@@ -24,7 +24,7 @@
     <option name="LINE_NUMBERS_COLOR" value="8f908a" />
     <option name="METHOD_SEPARATORS_COLOR" value="3f3f3f" />
     <option name="MODIFIED_LINES_COLOR" value="304050" />
-    <option name="NOTIFICATION_BACKGROUND" value="ff4444" />
+    <option name="NOTIFICATION_BACKGROUND" value="111288" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="484b58" />
     <option name="RIGHT_MARGIN_COLOR" value="373737" />
     <option name="SELECTED_INDENT_GUIDE" value="494949" />
@@ -317,6 +317,13 @@
     <option name="CSS.URL">
       <value>
         <option name="FOREGROUND" value="ff9720" />
+      </value>
+    </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="bf97fa" />
+        <option name="EFFECT_COLOR" value="ff" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
