@@ -12,6 +12,9 @@
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
