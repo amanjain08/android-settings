@@ -29,5 +29,8 @@
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
+  <action id="XDebugger.NewWatch">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="hg4idea.QFold" />
 </keymap>
