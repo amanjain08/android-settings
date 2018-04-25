@@ -1,0 +1,14 @@
+<templateSet group="Hypertrack">
+  <template name="show" value="AnimationUtils.expand($VIEW$);" description="Show view with animation" toReformat="false" toShortenFQNames="true">
+    <variable name="VIEW" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="hide" value="AnimationUtils.collapse($VIEW$);" description="hide view with animation" toReformat="false" toShortenFQNames="true">
+    <variable name="VIEW" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
