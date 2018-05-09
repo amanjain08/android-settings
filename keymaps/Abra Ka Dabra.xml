@@ -1,0 +1,28 @@
+<keymap version="1" name="Abra Ka Dabra" parent="Mac OS X 10.5+">	
+  <action id="ActivateRunToolWindow" />	
+  <action id="ActivateTerminalToolWindow">	
+    <keyboard-shortcut first-keystroke="alt f12" />	
+    <keyboard-shortcut first-keystroke="meta 4" />	
+  </action>	
+  <action id="AndroidConnectDebuggerAction">	
+    <keyboard-shortcut first-keystroke="shift meta d" />	
+  </action>	
+  <action id="CIDR.Lang.Cpp.GenerateDefinitions" />	
+  <action id="Diff.ShowSettingsPopup" />	
+  <action id="Git.CompareWithBranch">	
+    <keyboard-shortcut first-keystroke="meta b" />	
+  </action>	
+  <action id="GotoDeclaration">	
+    <mouse-shortcut keystroke="meta button1" />	
+    <mouse-shortcut keystroke="button2" />	
+  </action>	
+  <action id="GotoFile">	
+    <keyboard-shortcut first-keystroke="shift meta o" />	
+    <keyboard-shortcut first-keystroke="meta j" />	
+  </action>	
+  <action id="InsertLiveTemplate" />	
+  <action id="MyPlugin.QueryMenu" />	
+  <action id="XDebugger.MuteBreakpoints">	
+    <keyboard-shortcut first-keystroke="shift meta m" />	
+  </action>	
+</keymap> 
